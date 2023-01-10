@@ -276,6 +276,9 @@ footer{
     .product-photo-content {
         flex-wrap: wrap;
     }
+    .product-photos{
+        width: 320px;
+    }
     .product-photo-area{
         width: 300px;
         height: 300px;
